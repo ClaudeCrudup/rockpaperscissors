@@ -1,13 +1,22 @@
 .row{
   text-align:center;
   font-family: 'Luckiest Guy', cursive;
-
+  font-size: 20px;
 }
 #choices{
   display:flex;
   justify-content:space-between;
+  color:blue;
   
 }
 body {
   background: #E92679;
+  font-size: 30px;
+}
+#resultPic{
+  justify-content:center;
+}
+img {
+  width:300px;
+  text-align:center;
 }
