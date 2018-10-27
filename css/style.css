@@ -6,8 +6,7 @@
 #choices{
   display:flex;
   justify-content:space-between;
-  color:blue;
-  
+   color:blue;
 }
 body {
   background: #E92679;
@@ -19,4 +18,10 @@ body {
 img {
   width:300px;
   text-align:center;
+}
+#userPic{
+  width:80px;
+}
+#cpuPic{
+  width:80px;
 }
