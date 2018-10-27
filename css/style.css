@@ -1,9 +1,13 @@
 .row{
   text-align:center;
-  
+  font-family: 'Luckiest Guy', cursive;
+
 }
 #choices{
   display:flex;
   justify-content:space-between;
   
+}
+body {
+  background: #E92679;
 }
